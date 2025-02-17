@@ -65,7 +65,7 @@ Code to add in yaml file
 
 # Pipeline Design
 
-![alt text](images/APACHE &DOCKER ETL PIPELINE.Project 1.drawio.png)
+![images](images/APACHE &DOCKER ETL PIPELINE.Project 1.drawio.png)
 
 -----
 -----
